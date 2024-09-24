@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] attached image to improve the resources 
+* [x] attached image to improve the resources 
 
 ## Video Walkthrough
 
