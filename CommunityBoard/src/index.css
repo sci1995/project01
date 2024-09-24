@@ -1,54 +1,54 @@
 .Card {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 equal columns by default */
-    gap: 16px; /* Space between cards */
-    padding: 16px; /* Add padding around the grid */
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 16px; 
+    padding: 16px; 
 }
 
 .grid-item {
-    background-color: #f9f9f9; /* Background color for the cards */
-    border: 1px solid #ccc; /* Border for the cards */
-    padding: 16px; /* Inner spacing */
-    border-radius: 8px; /* Rounded corners */
-    text-align: center; /* Centered text */
-    transition: box-shadow 0.3s ease; /* Smooth shadow transition */
+    background-color: #f9f9f9; 
+    border: 1px solid #ccc; 
+    padding: 16px; 
+    border-radius: 8px;
+    text-align: center; 
+    transition: box-shadow 0.3s ease; 
 }
 
 .grid-item:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Shadow on hover */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .link {
-    display: inline-block; /* Make link behave like a button */
-    margin-top: 12px; /* Space above the link */
-    padding: 10px 15px; /* Padding inside the link */
-    background-color: #007bff; /* Background color for the link */
-    color: #fff; /* Text color for the link */
-    border-radius: 5px; /* Rounded corners for the link */
-    text-decoration: none; /* Remove underline from the link */
-    transition: background-color 0.3s ease; /* Smooth background transition */
+    display: inline-block; 
+    margin-top: 12px; 
+    padding: 10px 15px; 
+    background-color: #007bff; 
+    color: #fff; 
+    border-radius: 5px;
+    text-decoration: none; 
+    transition: background-color 0.3s ease; 
 }
 .grid-item img {
-    width: 150px; /* Set a fixed width */
-    height: 150px; /* Set a fixed height */
-    object-fit: cover; /* Ensures the image covers the area while maintaining aspect ratio */
-    border-radius: 8px; /* Optional: match the card's border radius */
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+    border-radius: 8px; 
 }
 
 
 .link:hover {
-    background-color: #0056b3; /* Darker shade on hover */
+    background-color: #0056b3; 
 }
 
 /* Responsive styles */
 @media (max-width: 1200px) {
     .Card {
-        grid-template-columns: repeat(2, 1fr); /* 2 columns on medium screens */
+        grid-template-columns: repeat(2, 1fr); 
     }
 }
 
 @media (max-width: 800px) {
     .Card {
-        grid-template-columns: 1fr; /* 1 column on small screens */
+        grid-template-columns: 1fr; 
     }
 }

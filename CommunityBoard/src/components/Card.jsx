@@ -36,13 +36,13 @@ const ideas = [
         title: "Sustainable Transportation Initiatives",
         description: "Encourage the use of eco-friendly transportation options, such as biking, walking, and public transit, to reduce carbon footprints.",
         image: image4,
-        link: "https://transportation.lbl.gov/"
+        link: "https://blog.techstork.sg/sustainable-transportation-options-to-reduce-your-carbon-footprint.html"
     },
     {
         title: "Green Living Tips and Resources",
         description: "Provide tips and resources on how to live sustainably in everyday life, covering various aspects such as energy efficiency and waste reduction.",
         image: image5,
-        link: "https://ecogreenlove.com/2018/03/13/greenliving-resources/"
+        link: "https://www.greenlivinganswers.com/ultimate-guide-to-green-living"
     },
     {
         title: "Eco-Friendly Product Showcase",
@@ -57,8 +57,8 @@ const ideas = [
         link: "https://www.usda.gov/topics/urban/coop-agreements"
     },
     {
-        title: "Sustainable Cooking Classes",
-        description: "Offer classes that teach participants how to cook sustainably, focusing on plant-based recipes and reducing food waste.",
+        title: "Sustainable Cooking",
+        description: "A blog that shares tips and insights on sustainable cooking, focusing on plant-based recipes and reducing food waste..",
         image: image8,
         link: "http://socisdg.com/en/blog/sustainable-cooking/"
     },
