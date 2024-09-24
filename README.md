@@ -2,9 +2,11 @@
 
 Submitted by: Aisha Beltagy
 
-This web app: **insert description**
+This web app: This web app serves as a community board designed to showcase a curated selection of events, resources, and initiatives focused on sustainability and eco-friendly practices. The site presents users with a collection of themed cards, each highlighting a different topic such as sustainable living, wildlife conservation, and eco-friendly workshops. Each card contains a brief description, a relevant image, and a link for users to explore further.
 
-Time spent: 5 hours spent in total
+The platform is designed with a responsive layout, ensuring optimal usability across both desktop and mobile devices. Whether users are looking for ways to participate in local tree-planting events, explore sustainable fashion, or learn more about waste reduction challenges, this hub provides a centralized location for accessing valuable resources that support environmental consciousness and community engagement.
+
+Time spent: 7 hours spent in total
 
 ## Required Features
 
